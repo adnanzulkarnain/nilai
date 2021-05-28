@@ -60,6 +60,7 @@
 |12 |FATCHUROMAH                      |191131018|46   |           |         |
 |13 |FERDINAR SATRIA HUSADA           |191131019|73   |           |         |
 |14 |FIKI HERMAWAN                    |191131020|71   |           |         |
+|15 |AMELIA ARTA AISYAH               |181131009|74   |           |         |
 
 ## Kelas - TI/WEB II
 |No |Nama                             |NRP      |Nilai|Rata2 Tugas|Nilai UAS|
